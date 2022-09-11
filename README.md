@@ -1,9 +1,3 @@
- __  __    _    ____  __  __
-|  \/  |  / \  / ___| \ \/ /
-| |\/| | / _ \| |      \  / 
-| |  | |/ ___ \ |___   /  \ 
-|_|  |_/_/   \_\____| /_/\_\
-@ivishnujs v.1
 
 Terminal based simple MAC address changer for linux using python3
 
