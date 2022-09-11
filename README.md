@@ -1,2 +1,20 @@
-# macx
-Simple MAC changer for linux 
+ __  __    _    ____  __  __
+|  \/  |  / \  / ___| \ \/ /
+| |\/| | / _ \| |      \  / 
+| |  | |/ ___ \ |___   /  \ 
+|_|  |_/_/   \_\____| /_/\_\
+@ivishnujs v.1
+
+Terminal based simple MAC address changer for linux using python3
+
+download repository
+cd /path../to../macx
+chmod +x macchanger.py -->  enabling execute permission
+
+
+help: 
+python3 macchanger.py -h   
+
+Usage:
+python3 macchanger.py -i <interface-name> -m <new mac address>
+      eg: python3 maccahnger.py -i eth0 -m 00:0c:29:47:09:00
